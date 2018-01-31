@@ -1,0 +1,48 @@
+.tab_bar{
+    background-color: #c9cfd8;
+    padding: 10px 10px 10px 10px;
+}
+
+/* I used the button generator at http://css3buttongenerator.com/ for help with this styling */
+button {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  background: #ffa724;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #edd9b0;
+  text-decoration: none;
+}
+
+.content{ color: #808080;
+  margin-top: 20px;
+  padding-left: 30px;
+  font-family: Arial;
+  font-size: 14px;
+  max-width: 300px;
+}
+
+.phoneButton{
+  background: #999999;
+  padding: 10px 20px 10px 20px;
+}
+
+.contact{
+  background: #999999;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  margin-top: 10px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 12px;
+}
